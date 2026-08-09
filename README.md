@@ -66,6 +66,8 @@ I’m looking for a remote Frontend Developer role where I can contribute to pro
 
 # MY PROJECTS
 
+AMY+ogwugo-admin dashboard. new.jpeg
+
 ## CASE STUDY 1 - OGWUGO ADMIN DASHBOARD: ORDER AND DELIVERY MANAGEMENT
 
 **Tech Stack:** React JS, Redux JS, Postman, UX/UI Design
