@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Fix overlapping text in the header/footer area caused by long usernames */
+
+.page-header {
+  padding-bottom: 2rem;
+}
+
+.page-header .btn {
+  display: inline-block;
+  margin-top: 1rem;
+  clear: both;
+}
+
+.site-footer {
+  padding-top: 2rem;
+  clear: both;
+}
+
+.site-footer-owner,
+.site-footer-credits {
+  display: block;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Prevent the long GitHub username/repo link from squeezing against other text */
+.project-name,
+.project-tagline {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
