@@ -62,3 +62,39 @@ I’m looking for a remote Frontend Developer role where I can contribute to pro
 * **Creativity:** I combine technical development with a strong visual sense to create interfaces that are functional without losing their design quality.
 
 * **Continuous Learning:** I actively continue developing my frontend skills and keeping up with technologies and practices that improve the quality of my work.
+
+
+# MY PROJECTS
+
+## CASE STUDY 1 - OGWUGO ADMIN DASHBOARD: ORDER AND DELIVERY MANAGEMENT
+
+**Tech Stack:** React JS, Redux JS, Postman, UX/UI Design
+
+### BUSINESS PROBLEM
+
+Ogwugo was handling a growing number of orders through its online store and needed a centralized interface that could help employees and management manage orders and delivery activities more effectively.
+
+### SOLUTION
+
+I worked on the Ogwugo Admin Dashboard, an administrative interface designed to give the business better control over its order and delivery operations.
+
+The dashboard allows employees to manage incoming orders, create orders, assign orders to available riders and monitor delivery activities.
+
+### KEY FEATURES
+
+* Order management and monitoring
+* Employee-created orders
+* Rider assignment
+* Delivery activity management
+* Centralized administrative interface
+* Responsive user interface
+
+### DEVELOPMENT APPROACH
+
+I used React JS and Redux JS to build the frontend application and manage application state. Postman was used during API-related development and testing, while UX/UI principles guided the interface design.
+
+### BUSINESS IMPACT
+
+The dashboard provided Ogwugo with a centralized frontend interface for managing order and delivery operations, giving employees and management a clearer way to monitor activities as order volume increased.
+
+
