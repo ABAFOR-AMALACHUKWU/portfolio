@@ -134,7 +134,7 @@ The website gave Wicrypt a digital platform for communicating its Wi-Fi sharing 
 
 ## CASE STUDY 3 - GEENA SHOP: CUSTOMIZABLE E-COMMERCE INTERFACE
 
-![image](AMY+ogwugo-admin dashboard. new.jpeg)
+![image](AMY+geena - project. new.jpeg)
 
 **Client:** Xend Africa
 
