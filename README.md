@@ -1,6 +1,3 @@
-# portfolio
-
-
 ## ABOUT ME
 
 I’m Amalachukwu Abafor, a Frontend Developer and UI-focused creative who builds responsive, interactive and user-friendly web experiences.
@@ -69,7 +66,7 @@ I’m looking for a remote Frontend Developer role where I can contribute to pro
 
 ## CASE STUDY 1 - OGWUGO ADMIN DASHBOARD: ORDER AND DELIVERY MANAGEMENT
 
-AMY+ogwugo-admin dashboard. new.jpeg
+![image](AMY+ogwugo-admin dashboard. new.jpeg)
 
 **Tech Stack:** React JS, Redux JS, Postman, UX/UI Design
 
