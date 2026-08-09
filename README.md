@@ -101,7 +101,7 @@ The dashboard provided Ogwugo with a centralized frontend interface for managing
 
 ## CASE STUDY 2 - WICRYPT.COM: WI-FI SHARING PLATFORM
 
-![image](AMY+ogwugo-admin dashboard. new.jpeg)
+![image](AMY+wicrypt - project new.jpeg)
 
 **Client:** Wicrypt Limited
 
