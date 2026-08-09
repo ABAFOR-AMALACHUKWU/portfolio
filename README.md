@@ -164,4 +164,37 @@ The project provided Geena stores with a reusable online storefront experience t
 
 
 
+# FRONTEND DEVELOPMENT FOCUS
+
+I build frontend experiences with a focus on:
+
+* Responsive web development
+* React JS applications
+* JavaScript interactions
+* Clean HTML and CSS
+* UI implementation
+* Accessibility
+* Interactive interfaces
+* UX/UI design
+* API integration
+* Component-based frontend development
+
+
+# CURRENT CAREER GOAL
+
+I’m currently looking for a **Remote Frontend Developer** opportunity where I can work on real products, contribute to a development team and continue growing as a frontend engineer.
+
+I’m particularly interested in teams building web applications, SaaS products, e-commerce platforms, fintech products, dashboards and other user-facing digital products.
+
+# CONTACT
+
+I’m available for remote Frontend Developer opportunities, freelance frontend projects and product collaborations.
+
+**LinkedIn:** [Amalachukwu Abafor](https://www.linkedin.com/in/amalachukwu-abafor-00116a151/)
+
+**Portfolio:** [(https://abafor-amalachukwu.github.io/portfolio/))
+
+
+
+
 
