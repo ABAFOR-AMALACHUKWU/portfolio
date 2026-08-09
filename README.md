@@ -186,13 +186,18 @@ I’m currently looking for a **Remote Frontend Developer** opportunity where I 
 
 I’m particularly interested in teams building web applications, SaaS products, e-commerce platforms, fintech products, dashboards and other user-facing digital products.
 
+
 # CONTACT
 
-I’m available for remote Frontend Developer opportunities, freelance frontend projects and product collaborations.
+I’m available for Remote Frontend Developer opportunities, freelance frontend projects and product collaborations.
 
 **LinkedIn:** [Amalachukwu Abafor](https://www.linkedin.com/in/amalachukwu-abafor-00116a151/)
 
-**Portfolio:** [(https://abafor-amalachukwu.github.io/portfolio/))
+**Portfolio:** [abafor-amalachukwu.github.io/portfolio](https://abafor-amalachukwu.github.io/portfolio/)
+
+**Email:** [amyabafor013@gmail.com](mailto:amyabafor013@gmail.com)
+
+**Phone:** [+234 816 202 7522](tel:+2348162027522)
 
 
 
