@@ -98,3 +98,70 @@ I used React JS and Redux JS to build the frontend application and manage applic
 The dashboard provided Ogwugo with a centralized frontend interface for managing order and delivery operations, giving employees and management a clearer way to monitor activities as order volume increased.
 
 
+
+## CASE STUDY 2 - WICRYPT.COM: WI-FI SHARING PLATFORM
+
+![image](AMY+ogwugo-admin dashboard. new.jpeg)
+
+**Client:** Wicrypt Limited
+
+**Tech Stack:** HTML, JavaScript, WordPress, UX/UI Design
+
+### PROJECT OVERVIEW
+
+Wicrypt is a platform that allows users to earn money by sharing their Wi-Fi.
+
+The project required a website capable of clearly communicating the platform’s value proposition while providing users with an accessible and visually consistent interface.
+
+### SOLUTION
+
+I worked on the frontend implementation and interface design using HTML, JavaScript and WordPress.
+
+### KEY FEATURES
+
+* Responsive website interface
+* JavaScript interactions
+* WordPress development
+* UX/UI implementation
+* Product-focused web pages
+
+### BUSINESS IMPACT
+
+The website gave Wicrypt a digital platform for communicating its Wi-Fi sharing service and presenting the product to users through a structured web experience.
+
+
+
+
+## CASE STUDY 3 - GEENA SHOP: CUSTOMIZABLE E-COMMERCE INTERFACE
+
+![image](AMY+ogwugo-admin dashboard. new.jpeg)
+
+**Client:** Xend Africa
+
+**Tech Stack:** HTML, JavaScript, Node.js, UX/UI Design
+
+### BUSINESS PROBLEM
+
+Geena required a customizable online store interface that could be used across its different stores while maintaining a consistent customer experience.
+
+### SOLUTION
+
+I worked on the Geena Shop interface, a customizable online shopping platform designed for Geena stores.
+
+The frontend focused on presenting products and store information through a clean and usable web interface.
+
+### KEY FEATURES
+
+* Customizable online store interface
+* Product-focused layouts
+* Responsive web interface
+* JavaScript interactions
+* UX/UI implementation
+
+### BUSINESS IMPACT
+
+The project provided Geena stores with a reusable online storefront experience that could support the brand’s e-commerce operations.
+
+
+
+
